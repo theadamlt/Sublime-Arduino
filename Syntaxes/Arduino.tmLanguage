@@ -4,8 +4,12 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>.pde</string>
+		<string>ino</string>
+		<string>pde</string>
+		<string>INO</string>
+		<string>PDE</string>
 	</array>
+
 	<key>foldingStartMarker</key>
 	<string>/\*\*|\{\s*$</string>
 	<key>foldingStopMarker</key>
