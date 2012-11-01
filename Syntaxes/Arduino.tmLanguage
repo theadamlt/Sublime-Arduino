@@ -52,6 +52,12 @@
 		</dict>
 		<dict>
 			<key>match</key>
+			<string>\b(String\d?)\b</string>
+			<key>name</key>
+			<string>support.class.c++.arduino</string>
+		</dict>
+		<dict>
+			<key>match</key>
 			<string>\b(private|protected|public)</string>
 			<key>name</key>
 			<string>storage.modifier.c++.arduino</string>
